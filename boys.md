@@ -1,3 +1,5 @@
 - car models
 - gun
 - bike
+- shoes
+- video game
