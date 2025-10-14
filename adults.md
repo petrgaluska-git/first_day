@@ -1,7 +1,9 @@
-hldlpdaklsa;sip
-dkakkl;j;
-ksad;liuiewlkjlka
-skduil;
-dkskcnak;n;
-sdkja;iee
-adk
+
+- flowers
+- dress
+- socks
+- diamond ring
+- cheers points
+- travel voucher
+- handy
+- watch
